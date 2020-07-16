@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "code": "SYS001",
+  "message": "哈哈，就是这样错的",
+  "stackTrace": "exception stack trace"
+}

@@ -1,0 +1,34 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+body {
+    background: url(../images/index_bg.jpg) no-repeat 100% 100%;
+    background-size: cover;
+}
+
+.container {
+    width: 380px;
+    height: auto;
+    background-image: url(../images/index_container_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    position: relative;
+    /*top: 50%;*/
+    top: 50px;
+    padding: 30px 60px 10px 60px;
+    border-radius: 8px;
+    z-index: 130;
+}
+
+.index_title {
+    font-weight: bolder;
+    font-family: 幼圆, arial, sans-serif;
+    font-size: 200%;
+    color: #0000ff
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": {
+    "id": 1,
+    "state": true,
+    "test": "OK",
+    "scene_name": "N1",
+    "scene": "S1",
+    "creater": "C1",
+    "create_time": "2020-05-01 14:00:00",
+    "sex": "1"
+  }
+}
